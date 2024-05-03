@@ -12,6 +12,12 @@
 
 > Et pour finir j'ai crée un repository github pour publié ceci.
 
+## Utilisation
+
+compteur :
+- incrémente : url
+- décrémente : url/nb => ( exemple :url/10 )
+
 ## Technologie utilisée :
 
 - Nextjs
